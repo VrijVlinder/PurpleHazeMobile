@@ -1,0 +1,1812 @@
+#Body {
+background:none repeat scroll 0 0 #453d51;
+clear:left;
+color:#c5bdd1;
+margin:0;
+position:relative;
+width:100%;
+}
+
+#Content {
+background:none transparent;
+border:none;
+color:#ccc;
+float:left;
+margin:0 3px auto 0;
+min-width:20%;
+padding-left:2px;
+position:relative;
+width:68%;
+}
+
+#Content .Box {
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+background:#222;
+border:none;
+border-bottom:1px solid #83789e;
+box-shadow:none;
+color:#ccc;
+font-weight:700;
+}
+#Content h3, .SubTab.Breadcrumbs {
+background: url(images/gradv20.png)repeat-x scroll 0 0 #453d51!important;
+border: 1px solid #83789e;
+color: #ebe3f2;
+font-size: 11pt;
+font-weight: 700;
+text-shadow: 0 2px 0 #000;
+background-size: 13px;
+text-align: center;
+}
+#Content h1 {
+font-size: 13pt;
+font-weight: bold;
+margin-bottom: 10px;
+color: #ebe3f2;
+background: none transparent;
+text-align: center;
+}
+#Content h4,#Panel .Box h4,form ul li label {
+color:#ebe3f2;
+font-size:16px;
+font-weight:700;
+text-shadow:0 2px 0 #000;
+}
+
+#ConversationForm form,body.Profile ul.PanelInfo,body#dashboard_entrycontroller_signin .Box {
+border:none;
+}
+
+#ConversationForm textarea.MultiComplete,#ConversationForm .TextBox,#MessageForm textarea,.Comment .CommentForm,.Comment .CommentForm textarea,.CommentForm textarea,#DiscussionForm input.InputBox,#DiscussionForm textarea {
+background:#3e3648;
+border:1px solid #83789e;
+color:#fff;
+width:99%;
+}
+
+#DiscussionForm form, #ConversationForm form {
+background: none repeat scroll 0 0 #524961;
+border: 1px solid #83789e;
+padding: 6px 0 6px 4px;
+color:#fff;
+text-shadow:0 1px 0 #000;
+}
+#DiscussionForm .PostOptions label {
+display: inline;
+font-weight: normal;
+font-size: 95%;
+color:#ebe3f2;
+}
+#DiscussionForm label {
+color:#ccc;
+font-size:14px;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+
+#Foot {
+background:transparent;
+border:none;
+margin:0;
+}
+
+#Foot a {
+color:#666;
+font-size:11pt;
+}
+
+#Foot a:hover {
+color:#9e82c0;
+font-size:11pt;
+}
+
+#Foot div {
+background:transparent;
+margin:0;
+width:auto;
+}
+
+#Head {
+background:none transparent;
+border:none;
+}
+
+#Head .User a,#Head h1 a span {
+background:none;
+border:1px solid #83789e;
+border-radius:4px 4px 4px 4px;
+box-shadow:0 0 2px #999;
+color:#cab9d3;
+font-family:arial;
+font-size:14px;
+font-weight:700;
+margin:0 0 0 6px;
+padding:6px;
+text-shadow:0 2px 0 #000;
+}
+
+#Head .User a.Profile,#Head .User a.Profile:hover {
+background:none;
+padding:6px;
+}
+
+#Head .User a:focus,#Head .User a:hover,#Head .User a.Profile:focus,#Head .User a.Profile:hover,#Head .User a:focus,#Head h1 a span:focus,#Head .User a:hover,#Head h1 a span:hover {
+background:none;
+border:1px solid transparent;
+box-shadow:0 0 1px #7c6d92;
+color:#7c6d92;
+font-size:14px;
+text-shadow:0 1px 0 #000;
+}
+
+#Head h1 a {
+color:#cab9d3;
+font-size:24px;
+text-shadow:0 1px 0 #000;
+}
+
+#Head h1 a span,#Head h1 a span:hover {
+background:none transparent!important;
+padding:6px;
+}
+
+#MessageForm h2 {
+border:0;
+color:#ccc;
+font-size:115%;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+
+#Panel {
+background:transparent;
+border:none;
+float:right;
+padding-right:5px;
+width:30%;
+}
+
+#Panel .Active,body.Profile #Body,body,.Body,.Mine,.Body {
+background:none repeat scroll 0 0 #524961;
+}
+
+#Panel .Box {
+-moz-border-bottom-colors:none;
+-moz-border-left-colors:none;
+-moz-border-right-colors:none;
+-moz-border-top-colors:none;
+background:none repeat scroll 0 0 #524961;
+border-color:#373041;
+border-image:none;
+border-style:none none solid;
+border-width:medium medium 1px;
+}
+
+#Panel .Box h4 {
+padding: 5px;
+background: none repeat scroll 0 0 #3e3648;
+text-align: center;
+border: 1px solid 
+#83789e;
+}
+
+#Panel .Box h4 a {
+color:#c5bdd1;
+font-size:18px;
+text-shadow:0 1px 0 #000;
+}
+
+#Panel .Box h4 a:hover {
+color:#ebe3f2;
+text-shadow:0 1px 0 #000;
+}
+
+#Panel .Box ul.PanelInfo li {
+background:none #453d51;
+border:1px solid #83789e;
+padding:0;
+}
+
+#Panel .SearchBox input.InputBox {
+margin-right:4px;
+width:77%;
+}
+
+#Panel,.Banner ul li.Connect,.Banner ul li.SignInItem {
+float:right;
+}
+#Status {
+border-top-left-radius: 2px;
+border-top-right-radius: 2px;
+-moz-border-radius-topleft: 2px;
+-moz-border-radius-topright: 2px;
+-webkit-border-top-left-radius: 2px;
+-webkit-border-top-right-radius: 2px;
+background:#9e82c0;
+margin: 0;
+padding: 8px 8px 0;
+color:#fff;
+font-weight: bold;
+line-height: 1.5;
+}
+* html .Messages,* html .Popup .Messages {
+left:auto;
+overflow:auto;
+position:inherit;
+top:auto;
+width:auto;
+}
+.Activities .HasPhoto .ItemContent {
+margin-left: 53px;
+width: 100%;
+}
+.Activities .Excerpt a:hover,.Activities .Meta a:hover,li.Active a,a.Category:hover {
+color:red;
+}
+
+.Author.Photo a.Photo img.ProfilePhotoMedium {
+height:40px;
+visibility:visible;
+width:40px;
+}
+
+.Back {
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+background:url(images/gradv20.png);
+border:1px solid #83789e;
+border-radius:3px;
+color:#ecebed;
+cursor:pointer;
+font-size:11pt;
+font-weight:700;
+margin:0;
+padding:0 1px;
+text-shadow:0 1px 0 #000;
+white-space:nowrap;
+}
+
+.Back:hover,a.Permalink:hover,a.EditDiscussion:hover,a.AnnounceDiscussion:hover,a.SinkDiscussion:hover,a.CloseDiscussion:hover,a.DeleteDiscussion:hover,a.FlagContent.Popup:hover,.Excerpt a,.Warning a.Dismiss {
+color:#fff;
+}
+
+.Banner {
+background:transparent;
+color:#ecebed;
+cursor:pointer;
+font-weight:700;
+margin:0 0 0 1px;
+position:relative;
+text-align:left;
+text-shadow:0 1px 0 #000;
+top:0;
+white-space:nowrap;
+}
+
+.Banner ul {
+-moz-border-radius:0;
+-moz-box-shadow:none;
+-webkit-border-radius:0;
+-webkit-box-shadow:none;
+background:transparent;
+border:none;
+border-radius:0;
+box-shadow:none;
+float:left;
+height:auto;
+margin:0;
+padding:0;
+top:0;
+white-space:nowrap;
+width:100%;
+}
+
+.Banner ul li {
+float:left;
+margin:0;
+padding-bottom:1px;
+}
+
+.Banner ul li a {
+background: url(images/gradv20.png)repeat-x scroll 0 0 #453d51;
+background-size: 16px;
+border: 1px solid #83789e;
+color:#ecebed;
+cursor: pointer;
+display: inline-block;
+font-size: 8pt;
+font-weight: 700;
+padding: 5px 4px;
+text-shadow: 0 1px 0 #000;
+white-space: nowrap;
+height: 20px;
+line-height: 1.5;
+}
+.Banner ul li a img {
+width: 24px;
+height: 24px;
+border: none;
+vertical-align: top;
+margin-top: -3px;
+}
+.Banner ul li a.NewDiscussion img,.Banner ul li a.NewConversation img {
+vertical-align:middle;
+}
+
+.Banner ul li a.NewDiscussion,.Banner ul li a.NewConversation {
+background:none;
+border:none;
+display:block;
+padding:0 1px;
+position:absolute;
+right:0;
+}
+
+.Banner ul li a.SignOut,a.Cancel {
+font-weight:700;
+}
+
+.Banner ul li a:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+box-shadow:0 0 5px #aaa;
+color:#fff;
+cursor:pointer;
+font-weight:700;
+margin:0;
+padding: 5px 4px;
+text-shadow:0 1px 0 #000;
+white-space:nowrap;
+}
+
+.Banner ul li.Connect a {
+line-height:1;
+padding:3px 2px;
+}
+
+.Banner ul li.SignInItem {
+height:30px;
+}
+
+.Banner ul li.SignInItem a {
+border-left:2px solid #adadad;
+padding-left:6px;
+padding-right:6px;
+}
+
+.Banner ul li a.ProfileLink img.ProfilePhotoMedium {
+margin-top: -3px;
+}
+
+.Banner ul li a.UserNotifications {
+display: none!important;
+}
+
+.Box {
+-moz-border-radius:1px;
+-moz-box-shadow:0 0 2px #999;
+-webkit-border-radius:1px;
+-webkit-box-shadow:0 0 2px #999;
+background:none repeat scroll 0 0 #524961;
+border:1px solid #373041!important;
+border-radius:1px;
+box-shadow:0 0 2px #999;
+color:#888;
+margin:10px 0;
+padding:6px 10px;
+}
+.Box.About {
+width: 99.8%;
+}
+.Box h4,body.Profile ul.PanelInfo li a:hover,textarea#Form_Comment.TextBox {
+background:none repeat scroll 0 0 #524961;
+color:#fff;
+}
+
+.Box dl dt {
+font-size: 12px;
+float: left;
+width: 80px;
+color:#ccc;
+overflow: hidden;
+white-space: nowrap;
+}
+.Box dl dd {
+font-size: 12px;
+margin-left: 80px;
+color:#fff;
+}
+.Box.Group {
+font-size:10pt;
+font-weight:700;
+width:100%;
+}
+.Box p {
+font-size: 10pt;
+padding: 0 0 4px;
+color:#a990c7;
+text-align: center;
+}
+
+.Button:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+border:1px solid #83789e;
+box-shadow:0 0 5px #aaa;
+color:#fff;
+text-shadow:0 1px 0 #000;
+}
+.CategoryDescription{
+font-size:10pt;
+}
+.Comment {
+color:#ccc;
+font-size:10pt;
+}
+
+.CommentInfo a,dd.IP,dt.IP,dt.LastActive,dd.LastActive,dt.Visits,dd.Visits,dd.Joined,dt.Joined {
+display:none;
+}
+
+.Connect form ul li label,.SignInPopup form ul li label,body#dashboard_entry_password form ul li label,body#dashboard_entry_signin form ul li label,body#dashboard_entry_index form ul li label {
+color:#c9badc;
+font-size:11pt;
+line-height:1.5;
+padding:0;
+}
+
+.Content {
+opacity:1!important;
+}
+
+.CreateAccount {
+color:#c9badc;
+}
+
+.DataList .Excerpt a {
+color:#c9badc;
+display:block;
+}
+
+.DataList .Item {
+-moz-box-shadow:0 0 2px #999;
+-webkit-box-shadow:0 0 2px #999;
+border-bottom:2px solid #2c2337;
+box-shadow:0 0 2px #999;
+margin:0;
+padding:4px 0;
+position:relative;
+}
+
+.DataList .Meta {
+background:#3e3648;
+border:1px solid #83789e;
+color:#9475ba;
+font-size:8pt;
+padding:6px;
+}
+
+.DataList .Meta .Announcement {
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+background:#e9e3f1;
+border-radius:2px;
+color:#000;
+font-weight:700;
+padding:1px 4px;
+text-shadow:0 1px 0 #fff;
+}
+
+.DataList .Meta a.Category,.Meta span a.Category {
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+background:none #666;
+border-radius:3px;
+color:#9475ba;
+font-size:8pt;
+margin:0;
+padding:2px;
+text-decoration:none;
+text-shadow:0 1px 0 #000;
+white-space:nowrap;
+}
+
+.DataList a.Delete,.DataList a.Delete:hover {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+border-radius:0;
+color:red;
+display:block;
+font-family:arial;
+font-size:16px;
+font-weight:700;
+height:14px;
+line-height:1;
+margin:0;
+padding:2px 4px;
+width:auto;
+background: none transparent;
+}
+
+.DataList li.Mine .Meta a.Category {
+background:#9475ba;
+border-radius:4px;
+color:#fff;
+font-size:8pt;
+text-shadow:0 1px 0 #000;
+}
+
+.DataList li.Mine .Meta a.Category:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background:#2c2337;
+box-shadow:0 0 5px #aaa;
+color:#9475ba;
+text-shadow:0 1px 0 #000;
+}
+
+.DiscussionsTabs .SubTab {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+background:#666;
+border-radius:0;
+border-top:1px solid #83789e;
+color:#fff;
+font-size:10pt;
+margin:0;
+padding:4px 8px;
+}
+
+.DismissMessage {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+background:#4a3a5d;
+border:1px solid #83789e;
+border-bottom:1px solid #83789e;
+border-radius:0;
+color:#c9badc;
+margin:0;
+padding:6px 8px;
+}
+
+.DismissMessage a.Dismiss:hover {
+background:#4a3a5d;
+color:#c9badc;
+}
+
+.DismissMessage.Info {
+background:#adadad;
+color:#ecebed;
+font-size:11pt;
+}
+.EmotifyDropdown {
+display: block;
+height: 20px;
+width: 20px;
+background: url(images/smile.png) 0 0 no-repeat!important;
+background-size: 20px;
+position: absolute;
+text-align: right;
+top: 1px;
+right: -2px;
+cursor: pointer;
+}
+.EmoticonBox {
+background-color:#3e3648;
+background-position: center center;
+border: 1px solid #83789e;
+border-top: 0;
+border-left: 0;
+display: block;
+float: left;
+height: 22px;
+width: 22px;
+overflow: hidden;
+cursor: pointer;
+}
+.EmoticonBox:hover{
+background:url(images/gradv20.png);
+background-size:25px;
+}
+.Errors ul,.Popup .Errors ul {
+border:1px solid #83789e;
+}
+
+.Foot {
+background:none;
+border:none;
+color:#fff;
+}
+
+.FootMenu {
+float:left;
+margin:6px 0 0;
+position:absolute;
+}
+
+.FootMenu span {
+margin-left:0;
+}
+
+.FootMenu span a,#Foot a.SignIn,input#Form_PostComment.Button.CommentButton,input#Form_PostDiscussion.Button.DiscussionButton,input#Form_SaveDraft.Button.DraftButton,input#Form_Preview.Button,.AttachFileLink a,a.Cancel {
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+background:url(images/gradv20.png);
+background-size:15px;
+border-radius:3px;
+color:#ecebed!important;
+cursor:pointer;
+font-size:10pt;
+font-weight:700;
+padding:3px 6px 6px;
+text-shadow:0 1px 0 #000;
+white-space:nowrap;
+}
+
+.FootMenu span a:hover..AttachFileLink a:hover,#Foot a.SignIn:hover,input#Form_PostComment.Button.CommentButton:hover,input#Form_PostDiscussion.Button.DiscussionButton:hover,input#Form_SaveDraft.Button.DraftButton:hover,input#Form_Preview.Button:hover,a.Cancel:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+box-shadow:0 0 5px #aaa;
+color:#fff!important;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+.HasPhoto .Excerpt, .HasPhoto .Meta {
+display: block;
+max-width: 85%;
+}
+.HeadingTabs .SubTab {
+background:none;
+display:inline;
+font-size:14px;
+font-weight:700;
+line-height:2.4;
+padding:0;
+}
+
+.HeadingTabs ul {
+margin:8px 0 0;
+}
+
+.Headings .ItemHeading {
+font-size:14px;
+font-weight:700;
+line-height:2;
+text-align:center;
+}
+
+.Headings div {
+display:block;
+padding-right:10px;
+text-align:center;
+}
+
+.ItemContent.Discussion {
+height:auto;
+}
+
+.ItemContent.Discussion a.Title,h4 a,strong a {
+color:#e9e3f1;
+font-size:10pt;
+padding-left: 4px;
+}
+
+.MenuItems {
+-moz-border-radius:4px;
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-border-radius:4px;
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:none repeat scroll 0 0 #3e3648;
+border:2px solid #83789e;
+border-radius:4px;
+border-radius-bottom-left:4px;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+color:#fff;
+font-size:12px;
+line-height:100%;
+min-width:100px;
+}
+
+.MenuItems a,.MenuItems a:link,.MenuItems a:visited,.MenuItems a:active {
+color:#fff;
+display:block;
+text-decoration:none;
+}
+
+.MenuItems a:hover,.MenuItems a:link:hover {
+color:#9475ba;
+display:block;
+text-decoration:none;
+}
+
+.MenuTitle {
+-moz-border-radius:4px;
+-moz-user-select:none;
+-o-user-select:none;
+-webkit-border-radius:4px;
+-webkit-user-select:none;
+background:url(images/gradv20.png);
+background-size:15px;
+border:1px solid transparent;
+border-radius:4px;
+color:#ecebed;
+font-weight:700;
+padding:3px 8px 3px 6px;
+text-shadow:0 1px 0 #000;
+user-select:none;
+}
+
+.Message {
+background:transparent;
+color:#ecebed;
+font-size:10pt;
+font-weight:700;
+}
+
+.MessageForm {
+padding:8px 8px 5px;
+}
+
+.MessageForm .Tabs {
+padding:0 8px;
+}
+.MessageForm, #DiscussionForm, #ConversationForm, #MessageForm {
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+background:transparent;
+border-bottom: 1px solid #83789e;
+border-radius: 0;
+color:#fff;
+margin: 0;
+width: 99.5%;
+}
+
+.MessageForm,.Tabs {
+background:transparent;
+border-bottom:1px solid #83789e;
+color:#fff;
+}
+
+.Tabs,.Headings {
+background:none repeat scroll 0 0 #666;
+border-bottom:1px solid #83789e;
+color:#fff;
+display:block;
+margin:0;
+padding:5px 8px;
+position:relative;
+}
+.MessageForm {
+background: none repeat scroll 0 0 
+transparent;
+border-bottom: none;
+color:#fff;
+display: block;
+margin: 0;
+padding: 5px 8px;
+position: relative;
+}
+.MessageList .Item {
+border-bottom:1px solid #83789e;
+padding:10px 10px 4px;
+}
+
+.Messages {
+margin:0;
+}
+
+.Messages ul,.Popup .Messages ul {
+-moz-border-radius:0;
+-moz-box-shadow:none;
+-webkit-border-radius:0;
+-webkit-box-shadow:none;
+border-radius:0;
+box-shadow:none;
+display:block;
+}
+
+.Messages,.Popup .Messages {
+left:auto;
+margin:10px 0;
+position:inherit;
+text-align:left;
+top:auto;
+z-index:auto;
+}
+
+.Meta span a:hover {
+color:#fff;
+text-decoration:none;
+}
+
+.Methods {
+border-left:1px solid #83789e;
+}
+
+.Methods .Method {
+padding:10px 3px 0;
+}
+
+.MorePager {
+font-size:10pt;
+line-height:2;
+text-align:center;
+}
+
+.MorePager a,.MorePager a:link,.MorePager a:visited,.MorePager a:active,.MorePager a:hover {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+background:none;
+border:none;
+border-radius:0;
+color:#adadad;
+line-height:1;
+padding:0;
+text-decoration:none;
+}
+
+.MorePager a:hover {
+color:#fff;
+text-decoration:underline;
+}
+
+.MultipleEntryMethods {
+width:290px;
+}
+
+.NumberedPager,#PagerMore,#PagerAfter {
+border-bottom:1px solid #83789e;
+margin:0;
+padding:3px 0;
+}
+
+.Open .MenuTitle {
+-moz-border-radius-bottomleft:0;
+-moz-border-radius-bottomright:0;
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-border-bottom-left-radius:0;
+-webkit-border-bottom-right-radius:0;
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:none #3b2e4a;
+border:1px solid #83789e;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+color:#fff;
+text-shadow:0 1px 0 #000;
+}
+
+.PanelDiscussions li a {
+float:none;
+}
+
+.PanelInfo .Meta {
+border:none;
+color:#9475ba;
+display:inline;
+font-size:8pt;
+font-weight:700;
+width:100%;
+}
+
+.Photo {
+float:left;
+margin:6px;
+max-width:60%;
+}
+
+.Photo img {
+display: inline-block;
+height: auto;
+width: 163px;
+border: 2px solid 
+#ccc;
+}
+
+.Popup .Body {
+-moz-border-radius:5px;
+-moz-box-shadow:0 0 3px #666;
+-webkit-border-radius:5px;
+-webkit-box-shadow:0 0 3px #666;
+background:none repeat scroll 0 0 #524961;
+border:1px solid #83789e;
+border-radius:5px;
+box-shadow:0 0 3px #666;
+}
+
+.Popup .Footer {
+background:none;
+border:none;
+margin:0;
+opacity:1!important;
+padding:0;
+text-align:right;
+}
+
+.Popup .Legal,.Popup .Content form {
+background:#453d51;
+border:1px solid #83789e;
+max-height:640px;
+overflow:auto;
+padding:0 10px 10px;
+}
+
+.Popup form ul li label {
+color:#7c6d92;
+font-size:14px;
+font-weight:700;
+}
+
+.Popup h1,.Popup h2,.Connect h1,.Connect h2 {
+background:url(images/gradnav.png);
+border:none;
+}
+
+.Preview {
+background:none repeat scroll 0 0 #524961;
+border:1px solid #83789e;
+color:#fff;
+margin:0 0 8px;
+padding:8px;
+}
+
+.Preview .Message,ul.MessageList .Message {
+clear:none;
+font-size:10pt!important;
+}
+.Profile{
+width:99.8%;
+}
+form.Activity textarea,body.Entry input.DateBox,body.Entry input.InputBox,body.Entry textarea,#ConversationForm textarea.MultiComplete,#ConversationForm .TextBox,#MessageForm textarea,.Comment .CommentForm,.Comment .CommentForm textarea,.CommentForm textarea,#DiscussionForm input.InputBox,#DiscussionForm textarea {
+width:98%;
+}
+
+.ProfileTabs {
+background:none repeat scroll 0 0 transparent;
+border:none;
+border-bottom:1px solid #adadad;
+clear:both;
+display:block;
+padding:6px 0 0;
+}
+
+.SearchBox {
+line-height:1;
+margin-bottom:6px;
+padding-top:30px;
+width:100%;
+}
+
+.SingleEntryMethod {
+font-size:14px;
+margin:0 auto;
+width:290px;
+}
+
+.Tabs {
+background:none transparent;
+border-bottom:.5px solid #83789e;
+padding:0 2px 2px;
+text-align:center;
+}
+
+.Tabs .AdminCheck {
+bottom:-15px;
+position:absolute;
+right:-15px;
+visibility: hidden;
+}
+
+.Tabs li a span {
+background: none repeat scroll 0 0 #222;
+border-radius: 3px 3px 3px 3px;
+color:#fff;
+font-size: 90%;
+font-weight: 700;
+}
+
+.Tabs li a,.Tabs li a:link,.Tabs li a:hover,.Tabs li a:active,.Tabs li a:visited {
+background-color:#524961;
+background-image:url(images/gradv20.png);
+border:1px solid #83789e;
+border-bottom:none;
+border-radius:4px;
+color:#cab9d3;
+font-size:8pt;
+font-weight:700;
+padding: 2px 3px;
+text-decoration:none;
+}
+
+.Tabs li.Active a {
+background:url(images/gradv20.png) repeat scroll 0 0 #605572!important;
+border-bottom:1px solid #453d51;
+color:#cab9d3;
+}
+
+.Tabs ul {
+padding:0;
+white-space:nowrap;
+}
+
+.Tabs.HeadingTabs.DiscussionTabs.FirstPage {
+background:url(images/gradnav.png);
+background-size:25px;
+color:#ccc;
+font-size:10pt;
+height:40px;
+}
+
+.ToggleFlyout.OptionsMenu {
+background:url(images/gradv20.png);
+background-size:15px;
+border-radius:4px;
+font-size:9pt;
+padding:2px;
+}
+
+.ToggleFlyout.OptionsMenu:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+box-shadow:0 0 5px #aaa;
+}
+
+.User {
+text-align: center;
+}
+}
+
+.User h1 {
+color:#ff2400;
+}
+
+.ac_lastitem {
+border-bottom:0;
+}
+
+.ac_over {
+background:#565657;
+color:#fff;
+}
+
+.ac_over strong {
+background:#6b6c6d;
+color:#fff;
+}
+
+.ac_results {
+background-color:#969798;
+border:1px solid #83789e;
+border-top:0;
+color:#fff;
+}
+
+.ac_results li {
+border-bottom:1px solid #83789e;
+}
+
+.ac_results strong {
+background:#818182;
+color:#fff;
+}
+
+.cleditorMain {
+background-color:#3e3648;
+border:1px solid #83789e;
+color:#ccc!important;
+font-size:12pt;
+font-weight:700!important;
+padding:0 1px 1px;
+}
+
+.cleditorToolbar {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+background:url(images/gradnav.png)!important;
+border-radius:0;
+color:#FFF!important;
+text-shadow:0 1px 0 #000;
+}
+
+a.Active, .Tabs li.Active a {
+-moz-border-radius: 3px 3px 0 0;
+-webkit-border-radius: 3px 3px 0 0;
+background: url(images/gradv20.png);
+border: 1px solid #83789e;
+border-radius: 3px;
+color:#e9e3f1;
+display: inline-block;
+font-size: 8pt;
+font-weight: 700;
+line-height:normal;
+margin: 0;
+position: relative;
+text-decoration: none;
+text-shadow: 0 1px 0 #000;
+}
+a.Active:hover, .Tabs li.Active a:hover{
+color:#fff;
+}
+a.BigButton.NewConversation.Popup.Popable {
+background:url(images/gradv20.png);
+color:#fff;
+font-size:10pt;
+}
+
+a.BigButton.NewDiscussion,a.BigButton.NewConversation.Popup {
+background:url(images/gradnav.png);
+background-size:22px;
+color:#ecebed;
+font-size:10pt;
+text-shadow:0 1px 0 #000;
+}
+
+a.BigButton.NewDiscussion:hover,a.BigButton.NewConversation.Popup:hover,.Tabs li a:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+box-shadow:0 0 5px #aaa;
+color:#fff;
+text-decoration:none;
+}
+
+a.Bookmark {
+background:url(images/star_sprite.png) top center no-repeat!important;
+height:22px;
+width:22px;
+}
+
+a.Bookmarked {
+background:url(images/star_sprite.png) center center no-repeat!important;
+height:22px;
+width:22px;
+}
+
+a.Bookmarking {
+background:url(images/star_sprite.png) bottom center no-repeat!important;
+height:22px;
+width:22px;
+}
+
+a.Button.SignInPopup,a.Button.ApplyButton,input#Form_SignUp.Button,input#Form_Save.Button,input#Form_SaveComment.Button,a.Button,.Button,input#Form_Go.Button,a.Button,a.Button,input.Button,input.lButton,a.RestoreButton.Button,a.DeleteButton.Button,Popup.Button.Popable,#DiscussionForm a.Cancel,.AttachFileLink a {
+background-image:url(images/gradv20.png);
+background-size:15px;
+border:1px solid #83789e;
+border-radius:4px 4px 4px 4px;
+box-shadow:0 0 2px #999;
+color:#cab9d3;
+cursor:pointer;
+font-size:14px;
+font-weight:700;
+margin:0;
+padding:3px 6px 6px;
+text-decoration:none;
+text-shadow:0 2px 0 #000;
+}
+
+a.Button:hover,a.Button:hover,input.Button:hover,input.Button:hover,a.Button:focus,a.Button:focus,input.Button:focus,input.Button:focus,Popup.Button.Popable:hover,Popup.Button.Popable:focus,.Button:hover,.Button:focus,#DiscussionForm a.Cancel:hover,.AttachFileLink a:hover{
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background-image:url(images/gradv20.png);
+background-size:15px;
+border:1px solid #83789e;
+border-radius:4px 4px 4px 4px;
+box-shadow:0 0 5px #aaa;
+color:#c5bdd1;
+font-size:14px;
+font-weight:700;
+padding:3px 6px 6px;
+text-shadow:0 2px 0 #000;
+}
+
+a.Category {
+color:#222;
+font-size:10pt;
+}
+
+a.Close,ul.Activities .Excerpt a,ul.Activities .Meta a {
+color:#ccc;
+font-size:9pt;
+}
+
+a.TabLink,a.TabLink:link,a.TabLink:visited,a.TabLink:active,a.TabLink:hover,.MorePager a,.MorePager a:link,.MorePager a:visited,.MorePager a:active,.MorePager a:hover {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+background:none;
+border:none;
+border-radius:0;
+color:#fff;
+line-height:1;
+padding:3px 6px;
+text-decoration:none;
+}
+
+a.Title {
+color:#ecebed;
+font-size:10pt;
+}
+
+a.Title:hover {
+color:#ff2400;
+font-size:10pt;
+}
+
+a:hover,a:link:hover {
+color:#7c6d92;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+
+body {
+background:none repeat scroll 0 0 #3e3648!important;
+color:#cab9d3;
+font-size:14px;
+font-weight:700;
+text-shadow:1px 1px 0 #000;
+}
+body.Conversations.Messages .Banner{
+top: -10px;
+}
+body.Dashboard.Activity #Content {
+float: left;
+width: 98%;
+margin: 0 5px 40px;
+}
+body.Dashboard.Activity .SearchBox {
+display: none;
+}
+body.Dashboard.Entry.Methods,body.Dashboard.Entry.SignIn.Methods,.Methods {
+background:#ccc;
+border-left:none;
+bottom:auto;
+color:#ff2400;
+font-size:11pt;
+font-weight:700;
+left:auto;
+position:relative;
+right:auto;
+text-align:left;
+top:auto;
+}
+
+body.Discussion .Back {
+background-size:16px;
+color:#ecebed;
+font-size:10pt;
+padding:3px 6px;
+text-align:left;
+text-shadow:0 1px 0 #000;
+}
+
+body.Discussion .HeadingTabs {
+display:block;
+}
+
+body.Discussion .HeadingTabs .SubTab {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+border-radius:0 0 0 0;
+font-size:11pt;
+}
+
+body.Discussion a.Bookmark {
+margin:6px 2px;
+}
+
+body.Entry #Content {
+background:none repeat scroll 0 0 #524961;
+float:none;
+margin:0 auto;
+text-align:center;
+width:auto;
+}
+
+body.Entry #Content .Box {
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+background:transparent;
+border:0;
+border-bottom:none;
+box-shadow:none;
+color:#fff;
+margin:0;
+padding:10px;
+}
+
+body.Entry #Content form {
+padding:0 6px 6px;
+}
+
+body.Entry #Content h1 {
+border:medium none;
+color:#ff2400;
+font-size:140%;
+font-weight:700;
+margin:0;
+padding:6px;
+text-align:left;
+}
+
+body.Entry form ul li label {
+color:#adadad;
+display:block;
+font-size:14px;
+font-weight:700;
+padding:6px 0 0;
+}
+
+body.Post #Content {
+margin:0 1px;
+width:98%;
+}
+
+body.Post a.Close {
+color:inherit;
+}
+body.Profile #Body {
+background: none!important;
+clear: left;
+color:#c5bdd1;
+margin: 0;
+position: relative;
+width: 100%;
+}
+body.Profile #Content {
+border:none;
+float:left;
+margin:0;
+width:100%;
+}
+
+body.Profile #Form_Invitation ul li label,body.Profile #Form_User ul li label,.Popup form ul li label {
+color:#ccc;
+display:block;
+font-size:14px;
+font-weight:700;
+margin:10px 0 0;
+}
+
+body.Profile #Panel {
+display:block;
+float:none;
+margin:20px 0 0;
+width:96%;
+}
+
+body.Profile #Panel .SearchBox {
+display:none;
+}
+
+body.Profile .Loading {
+background:none repeat scroll 0 0 #524961;
+border-bottom:1px solid #adadad;
+}
+
+body.Profile .PanelInfo {
+border-bottom: none;
+margin: 0;
+}
+
+body.Profile .SearchBox {
+visibility:visible;
+}
+
+body.Profile ul.Activities {
+background:none repeat scroll 0 0 #524961;
+border-top:medium none;
+margin:0;
+}
+
+body.Profile ul.PanelInfo li {
+margin:0;
+padding:0 10px;
+}
+
+body.Profile ul.PanelInfo li a {
+display:block;
+font-size:12px;
+padding:0 6px;
+}
+
+body.add #Content {
+margin:0 10px;
+}
+body.Vanilla.Categories .DataList .Meta {
+background:#3e3648;
+border: 1px solid #83789e;
+color:#9475ba;
+font-size: 8pt;
+}
+body.Vanilla.Categories ul.Conversations .Meta a.Name,body.Vanilla.Categories a, a:link, a:visited, a:active {
+color:#d4c7e3;
+text-decoration: none;
+}
+body.Vanilla.Categories ul.Conversations .Meta a.Name:hover,body.Vanilla.Categories a:hover, a:link:hover{
+color:#fff;
+text-decoration: none;
+}
+code {
+background:none repeat scroll 0 0 #373041;
+border-radius:2px 2px 2px 2px;
+box-shadow:0 0 1px #999;
+color:#c5bdd1;
+font-family:monospace;
+overflow:auto;
+}
+
+del {
+background:none repeat scroll 0 0 #453d51;
+color:#7c6d92;
+padding:0 3px;
+}
+
+div#Foot div {
+position:relative;
+}
+
+form.Activity {
+background:none repeat scroll 0 0 #524961;
+border-bottom:1px solid #83789e;
+color:#ccc;
+padding-bottom:10px;
+}
+
+form.Activity textarea {
+width:99%;
+}
+
+h1,h2,h5,h6 {
+color:#ccc;
+font-family:Arial,'lucida grande','Lucida Sans Unicode', tahoma, sans-serif;
+font-size:11pt;
+font-weight:700;
+}
+
+h4,h3 {
+color:#ada1be;
+font-size:15px;
+}
+
+input#Form_Search {
+background:none repeat scroll 0 0 #524961;
+border:1px solid #83789e;
+color:#fff;
+width:220px;
+}
+
+input#Form_Share.Button.ShareButton {
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+background:url(images/gradv20.png);
+border-radius:3px;
+color:#ecebed;
+cursor:pointer;
+font-weight:700;
+margin:0;
+padding:0 1px;
+text-shadow:0 1px 0 #000;
+white-space:nowrap;
+}
+
+input#Form_SignIn.Button,input#Form_SignOut.Button {
+color:#ecebed;
+text-decoration:none;
+}
+input#Form_Go.Button {
+float: right;
+padding: 7px 3px!important;
+background-size: 18px!important;
+vertical-align: bottom;
+width: 16%;
+}
+li#Discussion_Item.Comment.FirstComment.Mine.NillaBlog.NillaBlog2.Alt {
+background:none repeat scroll 0 0 #524961;
+border:1px solid #83789e;
+color:#fff;
+font-weight:700;
+}
+
+li.Active a:hover {
+color:#333;
+}
+
+li.item.Alt {
+background:none repeat scroll 0 0 #524961;
+border:1px solid #83789e;
+height:auto;
+}
+
+li.item.Mine {
+background:#222;
+border:1px solid #83789e;
+height:auto;
+}
+
+option {
+background:url(images/gradv20.png);
+}
+
+option:hover,option:focus {
+background-image:url(images/gradv20.png);
+}
+
+select {
+background-color:#524961;
+background-image:url(images/gradv20.png);
+background-size: 15px;
+border:1px solid #83789e;
+border-radius:5px;
+color:#ebe3f2;
+font-family:arial;
+font-size:14px;
+font-weight:700;
+height:25px;
+margin:0;
+padding:3px;
+text-shadow:1px 2px 0 #000;
+-webkit-appearance: menulist;
+box-sizing: border-box;
+-webkit-box-align: center;
+white-space: pre;
+-webkit-rtl-ordering: logical;
+}
+
+span.Breadcrumb.FirstCrumb {
+font-size:9pt;
+font-weight:700;
+}
+
+span.LastCommentBy a {
+color:#c9badc;
+text-shadow:0 1px 0 #000;
+}
+
+span.LastCommentBy a:hover,a.Category:hover,.BigButton a:hover,input#Form_Go.Button:hover {
+background:transparent;
+color:#9475ba;
+}
+
+span.MetaItem {
+padding:3px;
+}
+
+span.RSS a img{
+background-image: url(images/rss1.gif)!important;
+background-repeat:no-repeat;
+z-index: 14!important;
+}
+.Meta .RSS a img {
+vertical-align: text-bottom;
+height: 25px;
+width: auto;
+}
+strong {
+color:#cab9d3;
+font-size:12pt;
+font-weight:700;
+text-shadow:1px 1px 0 #000;
+}
+
+table.PreferenceGroup tbody td {
+border-bottom:1px solid #83789e;
+padding:2px 6px;
+}
+
+table.PreferenceGroup td.Description {
+color:#ccc;
+font-size:12px;
+}
+
+table.PreferenceGroup thead td {
+border-bottom:1px solid #83789e;
+border-top:1px #83789e;
+font-weight:700;
+padding:2px 6px;
+}
+
+ul.Activities .ItemContent {
+max-width:none;
+}
+
+ul.Activities .Photo {
+margin:2px 0 0;
+}
+
+ul.Activities li.Item {
+padding:4px 6px;
+}
+
+ul.Conversations .Meta a.Name,a,a:link,a:visited,a:active {
+color:#9e82c0;
+text-decoration:none;
+}
+
+ul.Conversations .Meta a.Name:hover {
+color:#fff!important;
+text-decoration:none;
+}
+
+ul.DataList .Mine span.Counts,ul.DataList span.NewCounts,ul.DataList .Mine span.NewCounts,ul.Discussions,.Alt,body.Profile ul.Discussions .Mine,li.Editing,ul.DataList.CategoryList {
+-moz-box-shadow:0 0 2px #999;
+-webkit-box-shadow:0 0 2px #999;
+background:none repeat scroll 0 0 #524961;
+border-left:4px solid #2c2337;
+border-right:4px solid #2c2337;
+border-top:4px solid #2c2337;
+box-shadow:0 0 2px #999;
+}
+
+ul.DataList a.Title {
+color:#c9badc;
+display:inline;
+font-size:10pt;
+margin:0 10px 0 0;
+}
+
+ul.DataList a.Title:hover {
+color:#fff;
+font-size:10pt;
+}
+
+ul.DataList span.Counts,body.Profile ul.DataList .Mine span.Counts {
+-moz-border-radius:3px;
+-webkit-border-radius:3px;
+background:#ff2400;
+border-radius:3px;
+color:#ecebed;
+font-size:11pt;
+line-height:1;
+padding:2px;
+}
+
+ul.DataList.Activities {
+border:1px solid #83789e;
+border-style:solid;
+border-width:1px;
+}
+
+ul.Discussion,body.Discussion #Content {
+margin-bottom:0;
+}
+
+ul.Discussions .ItemContent,ul.Drafts .ItemContent,.Item {
+-moz-box-shadow:0 0 2px #999;
+-webkit-box-shadow:0 0 2px #999;
+box-shadow:0 0 2px #999;
+margin:0 0 0 4px;
+border: 1px solid #1d1725;
+}
+
+ul.Discussions .Meta span.Author {
+font-weight:700;
+margin-right:8px;
+}
+
+ul.Discussions .Meta span.LastCommentBy,ul.Discussions .Meta span.LastCommentDate {
+margin-right:12px;
+}
+
+ul.Discussions li img {
+float:left;
+height:45px;
+padding:0 6px 0 4px;
+width:45px;
+}
+
+ul.PanelActivity li,ul.PanelInfo li,ul.PanelInfo li.Active {
+background:none;
+border-bottom:1px solid #83789e;
+}
+
+ul.PanelActivity,ul.PanelInfo {
+border-top:1px solid #83789e;
+}
+
+ul.PanelInfo {
+margin:0;
+width:100%;
+}
+
+ul.PanelInfo li {
+background-color:#524961;
+background-image:url(images/gradv20.png);
+border:1px solid #83789e;
+color:#c5bdd1;
+font-size:15px;
+font-weight:700;
+padding:0 10px;
+text-shadow:1px 2px 0 #000;
+}
+
+ul.PanelInfo li a {
+color:#c5bdd1;
+display:inline-block;
+font-size:10pt;
+font-weight:700;
+padding:1px 10px;
+text-shadow:1px 2px 0 #000;
+}
+
+ul.PanelInfo li a:hover {
+background:transparent;
+color:#ebe3f2;
+font-weight:700;
+text-shadow:1px 2px 0 #000;
+}
+
+ul.PanelInfo li.Active {
+background:url(images/gradv20.png)!important;
+background-size:15px;
+border-bottom:1px solid #83789e;
+border-top:1px solid #83789e;
+color:#fff;
+}
+
+ul.PanelInfo li.Active a {
+color:#ebe3f2;
+text-shadow:1px 2px 0 #000;
+}
+
+ul.PanelInfo li:hover {
+background:#453d51;
+border-bottom:1px solid #83789e;
+border-top:1px solid #83789e;
+}
+
+ul.token-input-list li input {
+background:#3e3648;
+border: 2px solid #83789e;
+border-radius:14px;
+color:#fff;
+font-size:14px;
+margin:2px 0;
+padding:3px;
+width:100px;
+}
+
+ul.token-input-list,ul.token-input-list-focus,ul.token-input-list-focus input {
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+background-color:#3e3648!important;
+border:1px solid #83789e;
+color:#ccc;
+cursor:text;
+font-size:15px;
+height:auto!important;
+list-style-type:none;
+margin:0!important;
+min-height:1px;
+overflow:hidden;
+padding:3px;
+width:98%;
+z-index:999;
+}
+
+
+ul#Menu li ul {
+	position: absolute;
+	visibility: hidden;
+    display: none;
+  margin: 0;
+  padding: 0;
+  width: 165px;
+  top: 25px;
+  left: 0;
+ }
+
+
+ul#Menu li ul li {
+	float: none;
+	display: inline;
+	margin: 0;
+	z-index: 9;
+}
+
+ul#Menu li ul li a {
+font-weight:bold;
+
+}
+
+ul#Menu li ul li a:hover {
+font-weight:bold;
+}
